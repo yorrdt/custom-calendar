@@ -1,4 +1,4 @@
-package com.example.test_schedule
+package com.example.calendar_test
 
 import io.flutter.embedding.android.FlutterActivity
 
